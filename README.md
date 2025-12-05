@@ -1,1 +1,1 @@
-# campus-energy-dashboard-AmanSaklani
+![alt text](output/dashboard.png)
